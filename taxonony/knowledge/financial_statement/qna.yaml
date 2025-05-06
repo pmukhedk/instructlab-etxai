@@ -86,11 +86,35 @@ Gains or losses from asset disposals are reported in income or expenditure based
          The depreciation method, useful life, and residual values are reviewed annually and adjusted as necessary, with 
          changes recognised in expenditure when they arise.
   - context: |
+  The table presents a breakdown of the Authority’s property, plant and equipment (PPE) across categories such as 
+  leased premises, furniture and fittings, office equipment, and computer hardware and systems. It covers the periods 
+  from 1 April 2021 to 31 March 2023. The PPE costs are tracked along with additions, disposals, and accumulated 
+  depreciation. For instance, in FY2021, the Authority recognised right-of-use assets worth S$24.021 million for leased premises, 
+  while disposals in the same year reduced total asset costs by over S$13 million. Depreciation is applied annually, 
+  such as S$3.593 million for leased premises in FY2021 and S$2.688 million in FY2022. As of 31 March 2023, the net 
+  book value of all PPE amounted to S$27.538 million, down from S$29.454 million the previous year. 
     questions_and_answers:
       - question: |
+        What major changes occurred in the value of leased premises between 1 April 2021 and 31 March 2023?
         answer: |
+        The most significant change was the recognition of right-of-use assets worth S$24.021 million for leased premises 
+        in FY2021, following the disposal of previously held assets valued at S$5.484 million. By 31 March 2023, the net 
+        book value for leased premises decreased to S$19.262 million from S$21.895 million in the previous year, reflecting 
+        continued depreciation and only minimal additions.
       - question: |
+        How did the Authority account for computer hardware and systems between FY2022 and FY2023?
         answer: |
+        In FY2022, the Authority added S$1.426 million worth of computer hardware and systems while disposing of S$4.310 million, 
+        resulting in a cost balance of S$13.489 million by 31 March 2022. In FY2023, an additional S$2.879 million was purchased, 
+        bringing the total to S$16.368 million. Depreciation for the financial year was S$1.990 million, leading to a net book 
+        value of S$7.389 million as of 31 March 2023.
+      - question: |
+        What was the overall impact of depreciation and asset disposals on the Authority’s PPE from FY2021 to FY2023?
+        answer: |
+        The Authority experienced total depreciation charges of S$5.390 million in FY2021 and S$4.850 million in FY2022. 
+        In FY2021, disposals reduced asset costs and accumulated depreciation by S$13.359 million. These activities gradually 
+        decreased the overall net book value of PPE from S$29.454 million in 2022 to S$27.538 million in 2023, showing 
+        a downward adjustment driven by both wear-and-tear (depreciation) and asset retirement.
   - context: |
     questions_and_answers:
       - question: |
