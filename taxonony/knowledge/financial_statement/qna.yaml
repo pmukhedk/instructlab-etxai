@@ -29,13 +29,32 @@ recognised in the year in which the estimates are revised and in any future year
         answer: |
             ACRA was established on 1 April 2004 and is overseen by the Ministry of Finance. It primarily administers and regulates business entities, corporate service providers, and public accountants in Singapore. Key responsibilities include administering acts like the Companies Act, advising the government on related matters, maintaining a repository of information, representing the government internationally, promoting public awareness, fostering a conducive regulatory environment, and developing the accountancy sector.   
   - context: |
+INCOME RECOGNITION
+Revenue is recognised when the Authority satisfies a performance obligation by transferring a promised good or service
+to the customer, which is when the customer obtains control of the good or service. A performance obligation may be
+satisfied at a point in time or over time. The amount of revenue recognised is the amount allocated to the satisfied
+performance obligation, generally measured based on the consideration to which the Authority expects to be entitled
+in exchange for transferring promised goods or services to a customer.
+Company, variable capital company, business, public accountant and corporate service provider incorporation/registration
+and renewal fees are recognised at a point in time when the registration or renewal is granted. Fees pertaining to regulatory
+inspections of public accountants are recognised over time.
+Information service fees from online sales are recognised at a point in time when information is provided. Fees from sales
+through agreements are recognised over time.
+Agency fee and income from other services provided are recognised over the period in which the services are rendered.
+Interest income is recognised using the effective interest method.
     questions_and_answers:
       - question: |
+         What are some examples of fees that the Authority recognizes at a point in time?
         answer: |
+         The provided information indicates that company, variable capital company, business, public accountant, and corporate service provider incorporation/registration and renewal fees are examples of fees that the Authority recognizes at a point in time, specifically when the registration or renewal is granted.
       - question: |
+        Explain how agency fees and income from other services are recognized by the Authority.
         answer: |
+        Agency fees and income from other services provided are recognized by the Authority over the period in which these services are rendered to the customer.
       - question: |
+        According to the provided information, under what condition does the Authority recognize revenue?
         answer: |
+        According to the provided information, the Authority recognizes revenue when it satisfies a performance obligation by transferring a promised good or service to the customer, which occurs when the customer obtains control of the good or service.
   - context: |
     questions_and_answers:
       - question:
