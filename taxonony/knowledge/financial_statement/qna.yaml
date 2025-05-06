@@ -3,16 +3,31 @@ domain: Financial Statement, 2024
 created_by: pmukhedk
 seed_examples:
   - context: |
-        <Context from the document associated with this set of sample q&a pairs.>
+        The financial statements of the Authority have been prepared in accordance with the provisions of the Public Sector
+(Governance) Act 2018, the Accounting and Corporate Regulatory Authority Act 2004 and the Statutory Board Financial
+Reporting Standards (“SB-FRS”). The financial statements are presented in Singapore dollars which is also the functional currency of the Authority.
+All financial information presented in Singapore dollars have been rounded to the nearest thousand, unless otherwise
+stated. They are prepared on the historical cost basis except as disclosed in the accounting policies below.
+The preparation of the financial statements in conformity with SB-FRS requires management to exercise its judgement
+in the process of applying the Authority’s accounting policies. It also requires the use of accounting estimates and
+assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities
+at the date of the financial statements, and the reported amounts of income or expenditure during the financial year.
+Although these estimates are based on management’s best knowledge of current events and actions, actual results may
+ultimately differ from these estimates.Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are
+recognised in the year in which the estimates are revised and in any future years affected.
     questions_and_answers:
       - question: |
-           <A question used for synthetic data generation. Based upon the previous context.>
+            What are the significant factors that have influenced ACRA's financial performance in the 2022/2023 financial year, and how does the authority manage its financial risks?
         answer: |
-           <The desired response for the question. Based upon the previous context.>
+           ACRA's financial performance is influenced by income from fees, agency fees, operational income, and expenditures like staff costs and depreciation. It manages financial risks, including credit, liquidity, and interest rate risks, through measures like placing deposits with the Accountant-General's Department and maintaining adequate cash reserves.
       - question: |
+            How does ACRA ensure the accuracy and reliability of its financial statements, and what are the key accounting policies that guide their preparation?
         answer: |
+            ACRA prepares its financial statements in accordance with the Public Sector (Governance) Act 2018, the Accounting and Corporate Regulatory Authority Act 2004, and the Statutory Board Financial Reporting Standards. This involves management's judgment and estimates. Key accounting policies include how it handles property, plant, and equipment, intangible assets, and government grants.   
       - question: |
+            What is the primary purpose of the Accounting and Corporate Regulatory Authority (ACRA), and what key responsibilities does it fulfill?
         answer: |
+            ACRA was established on 1 April 2004 and is overseen by the Ministry of Finance. It primarily administers and regulates business entities, corporate service providers, and public accountants in Singapore. Key responsibilities include administering acts like the Companies Act, advising the government on related matters, maintaining a repository of information, representing the government internationally, promoting public awareness, fostering a conducive regulatory environment, and developing the accountancy sector.   
   - context: |
     questions_and_answers:
       - question: |
