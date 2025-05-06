@@ -147,10 +147,8 @@ document_outline: |
    This document outlines Arca company's financial health, focusing on the balance sheet, income statement, and cash flow statement.
 document:
   repo: https://github.com/pmukhedk/instructlab-etxai.git
-  commit: <full commit SHA>
+  commit: 12f6907273a357558d753a1a1784f70416a2fe35
   patterns:
     - knowledge.md
-    - acra-annual-report-2022-2023---financial-statements.pdf
     - "*.md"
-    - "*.pdf"
-    - "taxonony/*.md"
+
