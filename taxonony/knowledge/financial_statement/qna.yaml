@@ -56,13 +56,35 @@ Interest income is recognised using the effective interest method.
         answer: |
         According to the provided information, the Authority recognizes revenue when it satisfies a performance obligation by transferring a promised good or service to the customer, which occurs when the customer obtains control of the good or service.
   - context: |
+The Accounting and Corporate Regulatory Authority (ACRA) accounts for property, plant and equipment (PPE) at cost,
+less accumulated depreciation and impairment losses. The cost includes all expenditures directly attributable to the
+acquisition of the assets, including projected dismantlement or restoration costs if the Authority has such obligations.
+Subsequent expenditures are capitalised only when they provide probable future economic benefits and can be reliably measured;
+otherwise, they are expensed as incurred. Depreciation is applied on a straight-line basis over estimated useful lives, 
+with categories such as furniture, office equipment, IT systems, and leased premises having specific assigned periods. 
+Estimates related to useful lives and residual values are reviewed annually, and any revisions are recognised in expenditure.
+Gains or losses from asset disposals are reported in income or expenditure based on the difference between proceeds and carrying value.
     questions_and_answers:
-      - question:
-        answer: |
       - question: |
+         How does ACRA determine the initial cost of property, plant, and equipment (PPE), and what additional costs may be included?
         answer: |
+         ACRA records property, plant, and equipment at cost, which includes all expenditures directly attributable to acquiring the asset. 
+         This also encompasses projected costs for dismantlement, removal, or restoration if such obligations arise as a consequence of acquiring 
+         or using the asset. These additional costs are capitalised and form part of the total cost of the asset, in accordance with applicable accounting policies.
       - question: |
+         Under what conditions does ACRA capitalise subsequent costs related to PPE, and how are other maintenance expenses treated?
         answer: |
+         Subsequent costs are capitalised only when it is probable that they will result in future economic benefits flowing to ACRA 
+         and when the costs can be measured reliably. These costs are either added to the carrying amount of the existing asset or recognised as a separate asset. 
+         In contrast, routine repairs and maintenance that do not meet these criteria are expensed immediately when incurred.
+      - question: |
+         What depreciation method does ACRA use for its PPE, and how are useful lives determined for different asset types?
+        answer: |
+         ACRA uses the straight-line depreciation method to allocate the cost of PPE over their estimated useful lives. 
+         Asset categories such as furniture and fittings are depreciated over 8 years, office equipment over 5 to 8 years, 
+         computer hardware and systems over 3 to 5 years, and leased premises over the lease period of 9 years. 
+         The depreciation method, useful life, and residual values are reviewed annually and adjusted as necessary, with 
+         changes recognised in expenditure when they arise.
   - context: |
     questions_and_answers:
       - question: |
