@@ -116,13 +116,33 @@ Gains or losses from asset disposals are reported in income or expenditure based
         decreased the overall net book value of PPE from S$29.454 million in 2022 to S$27.538 million in 2023, showing 
         a downward adjustment driven by both wear-and-tear (depreciation) and asset retirement.
   - context: |
+The Authority’s intangible assets primarily consist of internally-developed applications used to support its operations. 
+These assets are amortised over periods ranging from 1 to 5 years. As of 31 March 2023, the total cost of intangible assets 
+amounted to S$46.726 million, reflecting a transfer of S$2.949 million from development projects and a minor purchase of S$8,000. 
+There were no disposals during the year. The accumulated amortisation stood at S$33.746 million, which included 
+S$4.349 million charged for the financial year. The resulting net book value of intangible assets at the end of the 
+financial year was S$12.980 million, down from S$14.372 million in the prior year. In comparison, the previous year 
+included a disposal of S$924,000 and a smaller transfer amount from development-in-progress.
+
     questions_and_answers:
       - question: |
+        How did the Authority's intangible assets change between 2021/2022 and 2022/2023?
         answer: |
+        The net book value of intangible assets decreased from S$14.372 million in 2021/2022 to S$12.980 million in 2022/2023. 
+        This was due to amortisation of S$4.349 million, despite a transfer of S$2.949 million from development-in-progress 
+        and a minor purchase. Unlike the prior year, no disposals were recorded in 2022/2023.
       - question: |
+        What is the typical amortisation period for the Authority’s intangible assets, and what type of assets are they?
         answer: |
+        The intangible assets primarily consist of internally-developed applications that support the Authority’s operations. 
+        These are amortised over a period ranging from 1 to 5 years, depending on their useful life. The same amortisation 
+        range applied in both 2021/2022 and 2022/2023.
       - question: |
+        How did disposals affect intangible assets in 2021/2022 compared to 2022/2023?
         answer: |
+        In 2021/2022, the Authority disposed of intangible assets valued at S$924,000, which reduced both the cost and 
+        accumulated amortisation figures. In contrast, there were no disposals recorded in 2022/2023, meaning the changes 
+        in asset value were solely due to additions and amortisation.
 document_outline: |
    This document outlines Arca company's financial health, focusing on the balance sheet, income statement, and cash flow statement.
 document:
